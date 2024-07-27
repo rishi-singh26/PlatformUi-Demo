@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   fluent_ui: ^4.9.0
   macos_ui: ^2.0.2
+  window_manager: ^0.3.9
 
 dev_dependencies:
   flutter_test:
